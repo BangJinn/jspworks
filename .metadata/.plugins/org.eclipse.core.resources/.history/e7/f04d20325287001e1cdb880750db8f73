@@ -1,0 +1,5 @@
+/**
+ * time.jsp 구현
+ */
+
+ setInterval(myWatch, 1000);
